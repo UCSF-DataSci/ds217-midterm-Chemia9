@@ -15,7 +15,7 @@ echo "Starting clinical trial data pipeline..." > reports/pipeline_log.txt
 # Add a log entry for each notebook execution or failure
 # jupyter nbconvert --execute --to notebook q4_exploration.ipynb
 
-upyter nbconvert --execute --to notebook q4_exploration.ipynb || {
+jupyter nbconvert --execute --to notebook q4_exploration.ipynb || {
     echo "ERROR: Q4 data exploration failed"
     exit 1
 }
