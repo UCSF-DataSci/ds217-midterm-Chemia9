@@ -1,0 +1,10 @@
+**Key Findings:**
+1. 
+Based on these results there are no major skewedness in the data. 
+means and medians align. there don't seem to be very large outliers in the different groupings
+2. 
+we observed that the dropout rate and intervention adherence was consistent 
+amongst the different treatment groups, which eliminates bias caused by treatment assignments.
+3. 
+the cardiovascular disease outcome of the control group in comparison to two 
+interventions didn't have a significant difference
